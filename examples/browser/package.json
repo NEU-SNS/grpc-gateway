@@ -1,0 +1,23 @@
+{
+  "name": "grpc-gateway-example",
+  "version": "1.0.0",
+  "description": "Example use of grpc-gateway from browser",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "SEE LICENSE IN LICENSE.txt",
+  "devDependencies": {
+    "bower": "^1.7.9",
+    "gulp": "^3.9.1",
+    "gulp-bower": "0.0.13",
+    "gulp-exit": "0.0.2",
+    "gulp-mocha": "^2.2.0",
+    "gulp-process": "^0.1.2",
+    "gulp-serve": "^1.2.0",
+    "gulp-shell": "^0.5.2",
+    "gulp-wait": "0.0.2",
+    "mocha": "^2.5.3",
+    "zombie": "^4.2.1"
+  }
+}
